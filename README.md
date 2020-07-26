@@ -19,4 +19,4 @@ Hi! I'm Rohan Bansal, a hacker 💻 and maker :hammer: from Mountain View, Calif
 
 Check out my [website](https://rohanbansal.me) for more stats and info!
 
-![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohan-bansal&show_icons=true&hide_border=true)
+![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohan-bansal&show_icons=true&hide_border=true&count_private=true&theme=dracula)
