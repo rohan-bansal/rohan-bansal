@@ -12,10 +12,9 @@ Hi! I'm Rohan Bansal, a hacker 💻 and maker :hammer: from Mountain View, Calif
 :game_die: A few tools and frameworks I've been working with recently:
 
 - Flutter
-- LibGDX
+- OpenGL
 - Heaps.io
 - Flask
-- OpenGL
 - FireBase
 
 Check out my [website](https://rohanbansal.me) for more stats and info!
