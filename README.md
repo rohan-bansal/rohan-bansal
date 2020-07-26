@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey! I'm Rohan, welcome to my Github Profile. 👋
 
-<!--
-**Rohan-Bansal/rohan-bansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Rohan Bansal, a hacker 💻 and maker :hammer: from Mountain View, California. I love to code and contribute to open-source! You can probably find me on my laptop, wiring something, playing guitar :guitar:, or gaming :video_game: !
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Ricochet](https://github.com/Rohan-Bansal/Ricochet): My custom physics engine to speed up the game dev workflow. 
+- [ThetaHacks](https://github.com/ThetaHacks): An epic high-school hackathon coming to the Bay Area in 2021, aimed at bringing the world of tech to prospective engineers!
+
+🌱 I’m currently learning C++, Haxe, and Dart!
+
+:game_die: A few tools and frameworks I've been working with recently:
+
+- Flutter
+- LibGDX
+- Heaps.io
+- Flask
+- OpenGL
+- FireBase
+
+Check out my [website](https://rohanbansal.me) for more stats and info!
+
+![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohan-bansal&show_icons=true&hide_border=true)
