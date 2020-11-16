@@ -1,6 +1,10 @@
-### Hey! I'm Rohan, welcome to my Github Profile. 👋
+## Hey, I'm Rohan! 👋
 
-Hi! I'm Rohan Bansal, a hacker 💻 and maker :hammer: from Mountain View, California. I love to code and contribute to open-source! You can probably find me on my laptop, wiring something, playing guitar :guitar:, or gaming :video_game: !
+#### I'm a hacker 💻 and maker :hammer: from Mountain View, California. 
+
+---
+
+I love to code and contribute to open-source! You can probably find me on my laptop , wiring something, playing guitar :guitar:, or gaming :video_game: !
 
 🔭 I’m currently working on:
 
@@ -8,6 +12,6 @@ Hi! I'm Rohan Bansal, a hacker 💻 and maker :hammer: from Mountain View, Calif
 - CanvasNative: A cross-platform desktop app for the Canvas LMS interface built with Dart, embedded with Go, and with an optimized, reorganized, and streamlined interface!
 - [ThetaHacks](https://thetahacks.tech): An epic high-school hackathon I'm coordinating that's coming to the Bay Area in 2021, aimed at bringing the world of tech to prospective engineers!
 
-Check out my [website](https://rbansal.dev) for more stats and info!
+Check out my [website](https://rbansal.dev) for more info, and if you want to connect :)
 
 ![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=rohan-bansal&show_icons=true&hide_border=true&count_private=true&theme=dracula&hide=issues)
