@@ -9,4 +9,7 @@
 
 I love to code and contribute to open-source! You can probably find me on my laptop, wiring something, playing guitar :guitar:, or gaming :video_game: !
 
-**Want to check out the cool stuff I'm working on? Go enter `ssh me.rbansal.dev` into your terminal.**
+**Want to check out the cool stuff I'm working on? Go enter this into your terminal:**
+```bash
+ssh me.rbansal.dev
+```
