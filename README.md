@@ -7,12 +7,6 @@
 #### I'm a hacker 💻 and maker :hammer: from Mountain View, California. 
 
 
-I love to code and contribute to open-source! You can probably find me on my laptop , wiring something, playing guitar :guitar:, or gaming :video_game: !
+I love to code and contribute to open-source! You can probably find me on my laptop, wiring something, playing guitar :guitar:, or gaming :video_game: !
 
-🔭 I’m currently working on:
-
-- [Ricochet](https://github.com/Rohan-Bansal/Ricochet): My custom physics and UI engine to speed up the game dev workflow. 
-- CanvasNative: A cross-platform desktop app for the Canvas LMS interface built with Dart, embedded with Go, and with an optimized, reorganized, and streamlined interface!
-- [ThetaHacks](https://thetahacks.tech): An epic high-school hackathon I'm coordinating that's coming to the Bay Area in 2021, aimed at bringing the world of tech to prospective engineers!
-
-Check out my [website](https://rbansal.dev) for more info, and if you want to connect :)
+##### Want to check out the cool stuff I'm working on? Go enter `ssh me.rbansal.dev` into your terminal.
