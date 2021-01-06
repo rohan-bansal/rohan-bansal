@@ -13,3 +13,4 @@ I love to code and contribute to open-source! You can probably find me on my lap
 ```bash
 ssh me.rbansal.dev
 ```
+How did I make it? Read [this blog post](https://blog.rbansal.dev/2021/01/05/Building-a-Custom-SSH-Server-in-Golang-Dragons/).
