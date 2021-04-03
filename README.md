@@ -4,10 +4,10 @@
 
 ## Hey, I'm Rohan! 👋
 
-#### I'm a hacker 💻 and maker :hammer: from Mountain View, California. 
+#### I'm a silicon sorcerer 🧙 from Mountain View, California. 
 
 
-I love to code and contribute to open-source! You can probably find me on my laptop, wiring something, playing guitar :guitar:, or gaming :video_game: !
+I love to code and contribute to open-source! You can probably find me messing with electronics 🔌, playing guitar 🎸, or working on some cool software 💻!
 
 **Want to check out the cool stuff I'm working on? Go enter this into your terminal:**
 ```bash
