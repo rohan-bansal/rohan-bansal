@@ -7,7 +7,7 @@
 #### I'm a silicon sorcerer 🧙 from Mountain View, California. 
 
 
-I love to code and contribute to open-source! You can probably find me messing with electronics 🔌, playing guitar 🎸, or working on some cool software 💻!
+I love to code and contribute to open-source! You can probably find me messing with electronics 🔌, playing guitar 🎸, developing a game 🎮 or working on some other cool software 💻!
 
 **Want to check out the cool stuff I'm working on? Go enter this into your terminal:**
 ```bash
