@@ -4,7 +4,7 @@
 
 ## Hey, I'm Rohan! 👋
 
-#### I'm a silicon sorcerer 🧙 from Mountain View, California. 
+#### I'm a programmer from Mountain View, California. 
 
 
 You can probably find me messing with electronics 🔌, playing guitar 🎸, developing a game 🎮 or working on some other cool software!
