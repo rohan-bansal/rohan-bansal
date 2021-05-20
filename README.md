@@ -1,5 +1,5 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rohan-bansal&show_icons=true&hide_border=true&count_private=true&theme=dracula&hide=issues">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Rohan-Bansal&theme=dark&hide_border=true">
 </a>
 
 ## Hey, I'm Rohan! 👋
