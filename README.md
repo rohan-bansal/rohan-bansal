@@ -4,7 +4,4 @@
 
 ## Hey, I'm Rohan! 👋
 
-#### I'm a programmer from Mountain View, California. 
-
-
-You can probably find me messing with electronics, playing guitar, making a game, or working on some other cool software!
+Creative tinkerer with interest in AI, computer vision, robotic controls, and avionics programming. Aspiring to work at the intersection between hardware and software.
