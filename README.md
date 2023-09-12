@@ -1,6 +1,4 @@
-<a href="#">
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Rohan-Bansal&theme=dark&hide_border=true">
-</a>
 
 ## Hey, I'm Rohan! 👋
 
